@@ -1,0 +1,3 @@
+name: support-chat
+version: '${project.version}'
+main: com.luan.support.Support_chat
